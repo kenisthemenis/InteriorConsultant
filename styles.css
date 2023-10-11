@@ -293,7 +293,7 @@ footer {
 
     }
 
-    .child1 a::after {
+    .child2 a::after {
         top: 0;
         margin-top: 7px;
 

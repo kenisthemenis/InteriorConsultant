@@ -295,10 +295,8 @@ footer {
 
     .child1 a::after {
         top: 0;
-    }
-
-    a::after {
         margin-top: 7px;
+
     }
 
 
